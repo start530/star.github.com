@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://start530.github.io/sitemap.xml 
